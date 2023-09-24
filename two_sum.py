@@ -1,6 +1,6 @@
 # Given an array of integers nums and an integer target, return indices
 # of the two numbers such that they add up to target.
-
+# git test
 nums = [4,3,6,8,4,1,7,9,3]
 target = 6
 def nums_check(nums, target):
